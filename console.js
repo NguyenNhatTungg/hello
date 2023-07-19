@@ -4,5 +4,7 @@ console.log("thanhtongdeptrai");
 console.log("thanhtongdeptrai");
 
 function main(){
-  main();
+  return null;
 }
+main();
+// consoler.log(main);
