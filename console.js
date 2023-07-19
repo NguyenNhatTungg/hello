@@ -1,5 +1,4 @@
-function tinhtong() {
-  console.log("thanhtong ne");
-}
-
-tinhtong();
+//thanh tong ne
+console.log("thanhtongdeptrai");
+console.log("thanhtongdeptrai");
+console.log("thanhtongdeptrai");
