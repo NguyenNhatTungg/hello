@@ -6,7 +6,7 @@ console.log("thanhtongdeptrai");
 console.log("thanhtongdeptrai");
 //thanhtongdeptrai ne
 console.log("thanhtongdeptrai");
-
+//14
 
 function main(){
   return null;
